@@ -73,7 +73,7 @@ public class Variable {
 			
 		}
 	
-	
+//	System.out.prinln("bbbb:" + bbbb); //error
 
 	}
 }
