@@ -6,7 +6,7 @@ public class SwitchExample {
 	
 		
 		//Math.random() :  0.0~1.0에 가까운 double 형 값 보내줌
-		//int num = Math.randon() * (max - man + 1) +min;
+		//int num = Math.randon() * (max - min + 1) +min;
 		
 		//	double num = Math.random();
 		//	System.out.println(num);
