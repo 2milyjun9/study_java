@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch04;
+package com.urdomain.lecture.ch05;
 
 public class ArrayLengthExample {
 
