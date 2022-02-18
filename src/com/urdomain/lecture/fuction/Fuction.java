@@ -48,7 +48,6 @@ public class Fuction {
 	      return division;
 	   }
 }
-		
 	//	public int aaa(int a, int b, int c , String d, boolean e) {
 	//		System.out.println(a);
 	//		return 1;
@@ -65,4 +64,15 @@ public class Fuction {
 //}
 //	}
 
+
+//덧셈함수 int int
+
+//public static int addd(int a, int b) {
+//	return 1;
+//}
+
+//public static String bbb(String a, String b) {
+	
+	//String ccc = a+b;
+//	return ccc;
 
