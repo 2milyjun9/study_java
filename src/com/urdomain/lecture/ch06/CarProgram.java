@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch06.exc;
+package com.urdomain.lecture.ch06;
 
 public class CarProgram {
 
